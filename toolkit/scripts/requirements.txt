@@ -12,7 +12,7 @@ python-rpm-spec==0.14.1
     # via -r requirements.in
 rpm==0.1.0
     # via -r requirements.in
-validators==0.20.0
+validators==0.21.0
     # via -r requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
